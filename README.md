@@ -1,11 +1,6 @@
 # Proyecto 1 - ToDoList
 First Assignment -  a Simple To Do List
 
-
-## Video Walkthrough
-<img src = Walkthrough.gif title = 'Video Walkthrough' />
-
-
 **ToDo List** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Annamary Cartagena**
